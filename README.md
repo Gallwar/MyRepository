@@ -1,2 +1,2 @@
 # MyRepository
-Used for Databricks
+Used for Databricks Academy
